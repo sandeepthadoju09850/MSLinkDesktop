@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>listState</name>
+   <tag></tag>
+   <locator>ComboLBox</locator>
+   <locatorStrategy>CLASS_NAME</locatorStrategy>
+</WindowsElementEntity>

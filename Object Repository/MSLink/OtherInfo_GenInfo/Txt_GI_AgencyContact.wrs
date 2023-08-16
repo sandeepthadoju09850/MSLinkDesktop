@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Txt_GI_AgencyContact</name>
+   <tag></tag>
+   <locator>//*[@AutomationId='txtContact']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

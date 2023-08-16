@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Btn_RateMessage</name>
+   <tag></tag>
+   <locator>//*[@AutomationId='llCancel']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

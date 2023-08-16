@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Chk_OI_AT_AnyCarKeptAtSchool</name>
+   <tag></tag>
+   <locator>//*[(@AutomationId='chkUWN4' and @Name='${value}') or (@AutomationId='chkUWY4' and @Name='${value}')]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

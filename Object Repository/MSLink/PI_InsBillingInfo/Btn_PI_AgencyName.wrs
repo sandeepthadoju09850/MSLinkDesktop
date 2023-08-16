@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Btn_PI_AgencyName</name>
+   <tag></tag>
+   <locator>WindowsForms10.COMBOBOX.app.0.141b42a_r21_ad1</locator>
+   <locatorStrategy>CLASS_NAME</locatorStrategy>
+</WindowsElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Chk_DI_AnyLosses3YearsNo</name>
+   <tag></tag>
+   <locator>//*[(@AutomationId='btnQuestionLosses' and @Name='${value}') or (@AutomationId='chkQuestionLosses' and @Name='${value}')]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Chk_UM_AppRejUnderInsuredMCov</name>
+   <tag></tag>
+   <locator>//*[@AutomationId='chkRejectUUMD']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

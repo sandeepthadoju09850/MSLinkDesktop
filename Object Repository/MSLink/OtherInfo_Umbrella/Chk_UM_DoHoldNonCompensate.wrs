@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Chk_UM_DoHoldNonCompensate</name>
+   <tag></tag>
+   <locator>//*[(@AutomationId='chkUWN2' and @Name='${value}') or (@AutomationId='chkUWY2' and @Name='${value}')]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

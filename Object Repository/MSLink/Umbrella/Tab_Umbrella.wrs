@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Tab_Umbrella</name>
+   <tag></tag>
+   <locator>Umbrella (F6)</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Btn_OI_AT_CSingleLimit</name>
+   <tag></tag>
+   <locator>//*[@AutomationId='cboCSL']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

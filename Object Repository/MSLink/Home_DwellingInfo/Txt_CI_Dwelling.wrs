@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Txt_CI_Dwelling</name>
+   <tag></tag>
+   <locator>//*[@AutomationId='txtDwelling']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

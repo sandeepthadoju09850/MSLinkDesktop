@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Chk_PD_AnyFarmingOnPremises</name>
+   <tag></tag>
+   <locator>//*[(@AutomationId='chkUWN6' and @Name='${value}') or (@AutomationId='chkUWY6' and @Name='${value}')]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

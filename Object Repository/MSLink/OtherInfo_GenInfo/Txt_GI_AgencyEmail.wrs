@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Txt_GI_AgencyEmail</name>
+   <tag></tag>
+   <locator>//*[@AutomationId='txtEmail']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

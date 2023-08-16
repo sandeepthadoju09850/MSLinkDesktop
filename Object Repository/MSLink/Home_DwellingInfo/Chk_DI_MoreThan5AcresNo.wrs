@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Chk_DI_MoreThan5AcresNo</name>
+   <tag></tag>
+   <locator>//*[@AutomationId='chkQuestion5Acres' and @Name='No']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

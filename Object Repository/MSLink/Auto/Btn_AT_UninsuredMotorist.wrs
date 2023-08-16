@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Btn_AT_UninsuredMotorist</name>
+   <tag></tag>
+   <locator>//*[@AutomationId='cboUM']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

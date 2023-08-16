@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Lbl_DI_FireDepartment</name>
+   <tag></tag>
+   <locator>//*[@AutomationId='lblP4FireDepartment']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

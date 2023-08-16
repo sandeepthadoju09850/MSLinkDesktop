@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>stateSe</name>
+   <tag></tag>
+   <locator>State</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>state</name>
+      <type>Main</type>
+      <value>IN - Indiana</value>
+      <webElementGuid>d5899996-0044-4e68-bff7-ac1f54d8cbe2</webElementGuid>
+   </properties>
+</WindowsElementEntity>

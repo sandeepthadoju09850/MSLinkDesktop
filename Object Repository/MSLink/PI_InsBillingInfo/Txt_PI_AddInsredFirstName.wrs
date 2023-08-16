@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Txt_PI_AddInsredFirstName</name>
+   <tag></tag>
+   <locator>//*[@AutomationId='txtANIFirst']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

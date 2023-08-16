@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>btnOk</name>
+   <tag></tag>
+   <locator>OK</locator>
+   <locatorStrategy>NAME</locatorStrategy>
+</WindowsElementEntity>

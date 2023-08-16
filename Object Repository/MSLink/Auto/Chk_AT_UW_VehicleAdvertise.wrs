@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Chk_AT_UW_VehicleAdvertise</name>
+   <tag></tag>
+   <locator>//*[@AutomationId='chkAdv${value}']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>
