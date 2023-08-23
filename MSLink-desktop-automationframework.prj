@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>MSLinkDesktop</name>
+   <name>MSLink-desktop-automationframework</name>
    <tag></tag>
-   <UUID>a1629718-a7f4-4996-9ca4-f7114879621b</UUID>
+   <UUID>e5b5ebb4-5e87-4a26-8b5c-90f50435bb22</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\sa09850\git\MSLinkDesktop\MSLinkDesktop.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
